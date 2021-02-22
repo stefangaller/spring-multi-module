@@ -1,3 +1,3 @@
 rootProject.name = "multimodule"
 
-include("application", "api", "api-models")
+include("application", "api", "webapi")

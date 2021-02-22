@@ -8,6 +8,7 @@ plugins {
 
 dependencies {
     implementation(project(":api"))
+    implementation(project(":webapi"))
 
     implementation(kotlin("reflect"))
     implementation(kotlin("stdlib-jdk8"))
